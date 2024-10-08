@@ -2,9 +2,9 @@ interface
 {
 	push()
 	{
-		pull()
-		{
-		}
+		printf("pushing elements");
+		exit(0);
 	}
+	pop()
 }
 
