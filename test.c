@@ -1,1 +1,10 @@
+interface
+{
+	push()
+	{
+		pull()
+		{
+		}
+	}
+}
 
